@@ -20,14 +20,14 @@
 ---
 
 ### 📂 Featured Project
-- [👗 Open Fashion App UI with Flutter](https://github.com/HanyShaheen/Open-Fashion-App)  
+- [👗 Open Fashion App UI with Flutter](https://github.com/Hanyshaheen/Open-Fashion-App)  
 
 ---
 
 ### 📫 Connect with Me
 [![LinkedIn Badge](https://img.shields.io/badge/-Hany%20Shaheen-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hany-shaheen-311b52373/)](https://www.linkedin.com/in/hany-shaheen-311b52373/)  
 [![Gmail Badge](https://img.shields.io/badge/-hanyshaheen413@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hanyshaheen413@gmail.com)](mailto:hanyshaheen413@gmail.com)  
-[![GitHub Badge](https://img.shields.io/badge/-HanyShaheen-333?style=flat-square&logo=github&logoColor=white&link=https://github.com/HanyShaheen)](https://github.com/HanyShaheen)  
+[![GitHub Badge](https://img.shields.io/badge/-Hanyshahee-333?style=flat-square&logo=github&logoColor=white&link=https://github.com/Hanyshahee)](https://github.com/Hanyshahee)  
 
 ---
 
